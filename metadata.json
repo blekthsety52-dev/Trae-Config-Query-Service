@@ -1,0 +1,5 @@
+{
+  "name": "Trae Config Query Service",
+  "description": "A secure, high-performance RESTful API microservice designed to serve configuration queries with strict parameter validation and robust authentication.",
+  "requestFramePermissions": []
+}
